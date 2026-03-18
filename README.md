@@ -2,6 +2,10 @@
   <img src="assets/logo.jpg" alt="MCP Server Monitor" width="200" />
 </p>
 
+<p align="center">
+  <a href="README.md"><b>English</b></a> | <a href="README_RU.md">Русский</a>
+</p>
+
 # mcp-server-monitor
 
 > Real-time system monitoring through Claude Code. CPU, memory, disk, network, Docker, and process insights — right in your AI workflow.
