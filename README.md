@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="MCP Server Monitor" width="200" />
+</p>
+
 # mcp-server-monitor
 
 > Real-time system monitoring through Claude Code. CPU, memory, disk, network, Docker, and process insights — right in your AI workflow.
@@ -7,6 +11,10 @@
   <img src="https://img.shields.io/badge/TypeScript-5.7-blue" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-18%2B-green" alt="Node.js" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License" />
+</p>
+
+<p align="center">
+  <img src="assets/banner.jpg" alt="MCP Server Monitor Banner" width="100%" />
 </p>
 
 ## Why?
@@ -44,7 +52,7 @@ Add to your Claude Code MCP config (`~/.claude/claude_desktop_config.json`):
 ### Or build from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcp-server-monitor.git
+git clone https://github.com/VisualLock/mcp-server-monitor.git
 cd mcp-server-monitor
 npm install
 npm run build
